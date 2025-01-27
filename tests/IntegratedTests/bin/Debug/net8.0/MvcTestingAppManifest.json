@@ -1,0 +1,5 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure"
+}

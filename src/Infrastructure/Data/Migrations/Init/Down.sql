@@ -1,0 +1,5 @@
+﻿USE BLOG_DATABASE;
+GO
+
+DROP TABLE Comment;
+DROP TABLE BlogPost;

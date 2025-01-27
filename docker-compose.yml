@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  sqlserver:
+    build: .
+    container_name: sql
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "YourStrong!Passw0rd"
+    ports:
+      - "1433:1433"
+    volumes:
+      - ./src/Infrastructure/Data/Migrations/Init:/var/opt/mssql/init-sql

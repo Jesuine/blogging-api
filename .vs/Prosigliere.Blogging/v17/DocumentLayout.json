@@ -1,0 +1,923 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\integratedtests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|solutionrelative:tests\\integratedtests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\integratedtests\\infrastructure\\data\\postrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|solutionrelative:tests\\integratedtests\\infrastructure\\data\\postrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\infrastructure\\data\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\infrastructure\\data\\connection\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\connection\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\infrastructure\\data\\connection\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\connection\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\integratedtests\\xunit.runner.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|solutionrelative:tests\\integratedtests\\xunit.runner.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\integratedtests\\integratedtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE4FBB63-E713-479C-907E-33B966BC9568}|tests\\IntegratedTests\\IntegratedTests.csproj|solutionrelative:tests\\integratedtests\\integratedtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\webapi\\controllers\\v1\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\v1\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getblogpost\\mappers\\getblogpostoutputmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getblogpost\\mappers\\getblogpostoutputmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getblogpost\\getblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getblogpost\\getblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getblogpost\\models\\getblogpostinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getblogpost\\models\\getblogpostinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createblogpost\\createblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createblogpost\\createblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createblogpost\\models\\createblogpostsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createblogpost\\models\\createblogpostsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getblogpost\\models\\getblogpostoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getblogpost\\models\\getblogpostoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\application\\usecases\\v1\\createblogpost\\validator\\createblogpostsinputvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\application\\usecases\\v1\\createblogpost\\validator\\createblogpostsinputvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\application\\usecases\\v1\\createblogpost\\createblogpostusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\application\\usecases\\v1\\createblogpost\\createblogpostusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\application\\usecases\\v1\\getblogpost\\validators\\getblogpostinputvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\application\\usecases\\v1\\getblogpost\\validators\\getblogpostinputvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\application\\usecases\\v1\\createcomment\\validators\\createcommentinputvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\application\\usecases\\v1\\createcomment\\validators\\createcommentinputvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\application\\usecases\\v1\\getallblogposts\\getallblogpostsusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\application\\usecases\\v1\\getallblogposts\\getallblogpostsusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getblogpost\\validators\\getblogpostinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getblogpost\\validators\\getblogpostinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\application\\usecases\\v1\\getblogpost\\getblogpostusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\application\\usecases\\v1\\getblogpost\\getblogpostusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getallblogposts\\models\\getallblogpostsoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getallblogposts\\models\\getallblogpostsoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getallblogposts\\getallblogpostsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getallblogposts\\getallblogpostsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\application\\usecases\\v1\\createcomment\\createcommentusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\application\\usecases\\v1\\createcomment\\createcommentusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createcomment\\validators\\createcommentinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createcomment\\validators\\createcommentinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createcomment\\models\\createcommentinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createcomment\\models\\createcommentinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createcomment\\createcommentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createcomment\\createcommentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createblogpost\\validators\\createblogpostsinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createblogpost\\validators\\createblogpostsinputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\tests\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1F24768-25C6-4046-8285-71DB46F7F7C3}|tests\\UnitTests\\UnitTests.csproj|solutionrelative:tests\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createblogpost\\mappers\\createblobpostmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createblogpost\\mappers\\createblobpostmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createblogpost\\models\\createblogpostoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createblogpost\\models\\createblogpostoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getallblogposts\\mappers\\getallblogpostsoutputmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getallblogposts\\mappers\\getallblogpostsoutputmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5A6C9D-5C1E-477A-A452-C634FE233B8F}|src\\Domain\\Domain.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\domain\\entities\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5A6C9D-5C1E-477A-A452-C634FE233B8F}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createcomment\\mappers\\createcommentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createcomment\\mappers\\createcommentmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5A6C9D-5C1E-477A-A452-C634FE233B8F}|src\\Domain\\Domain.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5A6C9D-5C1E-477A-A452-C634FE233B8F}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\common\\outputs\\baseoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\outputs\\baseoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createcomment\\icreatecommentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createcomment\\icreatecommentusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\webapi\\controllers\\v1\\requests\\blogpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\v1\\requests\\blogpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\webapi\\controllers\\v1\\requests\\commentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\v1\\requests\\commentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createcomment\\models\\createcommentoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createcomment\\models\\createcommentoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getblogpost\\igetblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getblogpost\\igetblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getallblogposts\\models\\getallblogpostsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getallblogposts\\models\\getallblogpostsinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\getallblogposts\\igetallblogpostsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\getallblogposts\\igetallblogpostsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\application\\usecases\\v1\\createblogpost\\icreateblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0AA62C-7AA6-425F-9CF5-9A7B3A198D78}|src\\Application\\Application.csproj|solutionrelative:src\\application\\usecases\\v1\\createblogpost\\icreateblogpostusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0356B94D-7406-4213-BED4-726B64DD93CE}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|c:\\entrevistas\\prosigliere\\prosigliere.blogging\\src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C403795-731B-4C0A-8F48-9C83CA7C347D}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\WebApi\\Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\Infrastructure\\Data\\PostRepositoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\IntegratedTests\\Infrastructure\\Data\\PostRepositoryTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\Infrastructure\\Data\\PostRepositoryTests.cs",
+              "RelativeToolTip": "tests\\IntegratedTests\\Infrastructure\\Data\\PostRepositoryTests.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:49:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Data\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Data\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAUwKgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:47:42.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:59:05.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Data\\Connection\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Connection\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Data\\Connection\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Connection\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:54:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetBlogPostUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCase.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:47:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetBlogPostOutputMapper.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Mappers\\GetBlogPostOutputMapper.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetBlogPost\\Mappers\\GetBlogPostOutputMapper.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Mappers\\GetBlogPostOutputMapper.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetBlogPost\\Mappers\\GetBlogPostOutputMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:47:00.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "tests\\IntegratedTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\MSTestSettings.cs",
+              "RelativeToolTip": "tests\\IntegratedTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T01:12:17.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Data\\Connection\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\Connection\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Data\\Connection\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\Connection\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:55:12.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IntegratedTests",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\IntegratedTests.csproj",
+              "RelativeDocumentMoniker": "tests\\IntegratedTests\\IntegratedTests.csproj",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\IntegratedTests.csproj",
+              "RelativeToolTip": "tests\\IntegratedTests\\IntegratedTests.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T01:32:11.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBlogPostsInput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostsInput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostsInput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostsInput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostsInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:24:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateBlogPostUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCase.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:16:15.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "xunit.runner.json",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\xunit.runner.json",
+              "RelativeDocumentMoniker": "tests\\IntegratedTests\\xunit.runner.json",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\IntegratedTests\\xunit.runner.json",
+              "RelativeToolTip": "tests\\IntegratedTests\\xunit.runner.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T10:40:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.json",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T00:53:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetBlogPostInput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostInput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostInput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostInput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:47:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Controllers\\v1\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\v1\\BlogPostController.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Controllers\\v1\\BlogPostController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\v1\\BlogPostController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAtwDgAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:03:38.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetBlogPostOutput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostOutput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostOutput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostOutput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetBlogPost\\Models\\GetBlogPostOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:47:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateBlogPostUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCaseTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCaseTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCaseTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\CreateBlogPostUseCaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:38:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetAllBlogPostsOutput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsOutput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsOutput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsOutput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:16:30.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateBlogPostsInputValidatorTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\Validator\\CreateBlogPostsInputValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\Validator\\CreateBlogPostsInputValidatorTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\Validator\\CreateBlogPostsInputValidatorTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateBlogPost\\Validator\\CreateBlogPostsInputValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:13:21.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetBlogPostUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCaseTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCaseTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCaseTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\GetBlogPostUseCaseTests.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAA9wHQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:58:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllBlogPostsUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCaseTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCaseTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCaseTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCaseTests.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:42:50.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetBlogPostInputValidatorTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidatorTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidatorTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidatorTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T01:07:11.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateCommentInputValidator.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidator.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidator.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:56:38.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCommentInputValidatorTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidatorTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidatorTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\Validators\\CreateCommentInputValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:36:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetBlogPostInputValidator.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidator.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidator.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetBlogPost\\Validators\\GetBlogPostInputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:16:01.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\MSTestSettings.cs",
+              "RelativeToolTip": "tests\\UnitTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T23:36:31.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateCommentUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCaseTests.cs",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCaseTests.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCaseTests.cs",
+              "RelativeToolTip": "tests\\UnitTests\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCaseTests.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T00:25:13.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllBlogPostsUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\GetAllBlogPostsUseCase.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:14:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateCommentInput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentInput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentInput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentInput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:56:01.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateCommentUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateComment\\CreateCommentUseCase.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:52:49.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateBlogPostsInputValidator.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Validators\\CreateBlogPostsInputValidator.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Validators\\CreateBlogPostsInputValidator.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Validators\\CreateBlogPostsInputValidator.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Validators\\CreateBlogPostsInputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:33:06.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitTests.csproj",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "tests\\UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\tests\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "tests\\UnitTests\\UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T23:45:25.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetAllBlogPostsOutputMapper.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Mappers\\GetAllBlogPostsOutputMapper.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Mappers\\GetAllBlogPostsOutputMapper.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Mappers\\GetAllBlogPostsOutputMapper.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Mappers\\GetAllBlogPostsOutputMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:33:59.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateBlogPostOutput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostOutput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostOutput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostOutput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Models\\CreateBlogPostOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:22:53.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateBlobPostMappers.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Mappers\\CreateBlobPostMappers.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Mappers\\CreateBlobPostMappers.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\Mappers\\CreateBlobPostMappers.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateBlogPost\\Mappers\\CreateBlobPostMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:51:05.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "src\\Application\\Application.csproj",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\Application.csproj",
+              "RelativeToolTip": "src\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T00:04:17.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Domain\\Entities\\BlogPost.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\BlogPost.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Domain\\Entities\\BlogPost.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:07:14.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateCommentMappers.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Mappers\\CreateCommentMappers.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateComment\\Mappers\\CreateCommentMappers.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Mappers\\CreateCommentMappers.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateComment\\Mappers\\CreateCommentMappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:56:55.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "src\\Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:07:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseOutput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\Common\\Outputs\\BaseOutput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Outputs\\BaseOutput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\Common\\Outputs\\BaseOutput.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Outputs\\BaseOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:54:21.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICreateCommentUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\ICreateCommentUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateComment\\ICreateCommentUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\ICreateCommentUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateComment\\ICreateCommentUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:53:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\Interfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Interfaces\\IPostRepository.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\Interfaces\\IPostRepository.cs",
+              "RelativeToolTip": "src\\Application\\Interfaces\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T01:04:35.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BlogPostRequest.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Controllers\\v1\\Requests\\BlogPostRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\v1\\Requests\\BlogPostRequest.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Controllers\\v1\\Requests\\BlogPostRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\v1\\Requests\\BlogPostRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:30:05.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CommentRequest.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Controllers\\v1\\Requests\\CommentRequest.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\v1\\Requests\\CommentRequest.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\Controllers\\v1\\Requests\\CommentRequest.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\v1\\Requests\\CommentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:11:51.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateCommentOutput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentOutput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentOutput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentOutput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateComment\\Models\\CreateCommentOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:56:12.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IGetBlogPostUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\IGetBlogPostUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetBlogPost\\IGetBlogPostUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetBlogPost\\IGetBlogPostUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetBlogPost\\IGetBlogPostUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:47:35.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetAllBlogPostsInput.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsInput.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsInput.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsInput.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\Models\\GetAllBlogPostsInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:16:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IGetAllBlogPostsUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\IGetAllBlogPostsUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\IGetAllBlogPostsUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\GetAllBlogPosts\\IGetAllBlogPostsUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\GetAllBlogPosts\\IGetAllBlogPostsUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T00:10:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICreateBlogPostUseCase.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\ICreateBlogPostUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Application\\UseCases\\v1\\CreateBlogPost\\ICreateBlogPostUseCase.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Application\\UseCases\\v1\\CreateBlogPost\\ICreateBlogPostUseCase.cs",
+              "RelativeToolTip": "src\\Application\\UseCases\\v1\\CreateBlogPost\\ICreateBlogPostUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:32:43.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "src\\WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T00:06:56.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-25T21:27:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T21:22:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\WebApi\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Entrevistas\\Prosigliere\\Prosigliere.Blogging\\WebApi\\Controllers\\PostController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PostController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:51:49.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
